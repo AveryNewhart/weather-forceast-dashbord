@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.forecastStyle {
+    background-color: darkblue;
+    color: white;
+}
+
+.mostRecentCityStyle {
+    border: 1px solid black;
+}
+
+#lastCityHead {
+    margin: 1%;
+}
+
+.lastCityStyle {
+    margin: 1%;
+}
+
+.leftSectionCard {
+    height: 100vh;
+    
+    border-right: 1px solid black
+}
+
+.paddingForMainText {
+    margin: 1%;
+}
+
+.imgClass {
+    height: 50px;
+}
+
+.displayedForecast {
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
