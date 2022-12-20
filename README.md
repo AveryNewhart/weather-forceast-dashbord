@@ -14,6 +14,6 @@
 
 ## Usage
 
-![screenshot of website](./assets/forecastSS.png)
+![screenshot of website](forecastSS.png)
 
 - link to deployed application https://averynewhart.github.io/weather-forceast-dashbord/
