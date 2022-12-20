@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: 0;
     padding: 0;
 }
@@ -38,4 +38,59 @@ body {
     margin-top: 5px;
     display: flex;
     justify-content: space-evenly;
+} */
+
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: darkblue;
+    color: white;
+    height: 50px;
+}
+
+.search-card {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.searchBtnStyle {
+    border-bottom: 2px solid gray;
+    padding-bottom: 10px;
+}
+
+.box {
+    border: 2px solid black;
+}
+
+#fiveDayForecast {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#searchHistoryHead {
+   margin-right: 150px;
+}
+
+.imgClass {
+    height: 50px;
+}
+
+.bottom {
+    margin: 0;
+}
+
+.forecastStyle {
+    background-color: darkblue;
+    color: white;
+    margin: 5px;
+}
+
+.forecastW {
+    width: 75%;
 }
