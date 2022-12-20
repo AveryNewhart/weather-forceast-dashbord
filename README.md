@@ -14,6 +14,6 @@
 
 ## Usage
 
-ss
+![screenshot of website](./assets/forecastSS.png)
 
-link
+- link to deployed application https://averynewhart.github.io/weather-forceast-dashbord/
